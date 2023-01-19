@@ -17,7 +17,7 @@ Properties of document objects such as title, body, cookies, etc can also be acc
 
 
 
-                           WINDOW 
+                           WINDOWS
 
 
 It represents a browser window or frame that displays the contents of the webpage.   
